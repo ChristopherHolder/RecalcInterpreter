@@ -1,0 +1,8 @@
+program abc is
+begin
+int x, y, z;
+x = 10;
+y = 2;
+z = x + y;
+print "The sum of " . x . " and " . y . " is " . z;
+end

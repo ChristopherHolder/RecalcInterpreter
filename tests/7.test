@@ -1,0 +1,4 @@
+program xyz is
+begin
+print 45 div 0;
+end

@@ -1,0 +1,5 @@
+program xyz is
+begin
+int x;
+print 45 + 3 + x;
+end

@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {0..8}
+do
+    ./proj2_linprog < "$i.test"
+done

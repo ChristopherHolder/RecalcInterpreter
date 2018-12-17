@@ -1,0 +1,4 @@
+program xyz is
+begin
+print "Hello World";
+end

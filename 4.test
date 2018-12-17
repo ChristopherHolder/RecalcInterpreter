@@ -1,0 +1,12 @@
+program xyz is
+begin
+int a,b,c;
+a=4;
+b=10;
+a=45 div 9 + 34 - 100 + (25 div (30 div 6)) + 1;
+print a;
+print b;
+print ((a div b))*5+45+(4 div 8);
+string a;
+print 42;
+end

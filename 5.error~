@@ -1,0 +1,4 @@
+program xyz is
+begin
+print 6 div 6;
+end

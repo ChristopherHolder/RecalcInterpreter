@@ -1,0 +1,6 @@
+program wer is
+begin
+string x;
+x = 5;
+print x;
+end

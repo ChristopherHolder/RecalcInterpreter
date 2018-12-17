@@ -1,0 +1,7 @@
+program xyz is
+begin
+int x;
+int x;
+x = 5;
+print x;
+end

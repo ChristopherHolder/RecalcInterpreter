@@ -1,0 +1,5 @@
+program xyz is
+begin
+string welcome = "Hello";
+print 45 + welcome;
+end

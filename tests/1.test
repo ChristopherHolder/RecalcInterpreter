@@ -1,0 +1,6 @@
+program abc is
+begin
+int a;
+a = 5;
+print "My job is to test the print function. Here is a int: " . 55 . " and the value of var a: " . a;
+end

@@ -1,0 +1,9 @@
+program xyz is
+begin
+string f,g;
+f = "hola";
+g = "abc";
+print g;
+g = f;
+print g;
+end
